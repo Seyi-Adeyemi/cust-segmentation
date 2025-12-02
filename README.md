@@ -55,10 +55,11 @@ Home Office: £2.3M is the smallest revenue generator.
 
 ### Question 2: Which countries or regions generate the highest revenue?
 
-![RegionbySales](assets/image/Screenshot 2025-12-02 215858.png)
+![CitybySales](assets/image/Screenshot 2025-12-02 220955.png)
+![RegionbySales](assets/image/Screenshot 2025-12-02 221101.png)
 
-The top city is New York with £256K in sales, across all segments, while the top region is the Central region accounting for 22% of total sales- £2.8M
-<img width="2290" height="81" alt="image" src="https://github.com/user-attachments/assets/76fbe20c-de44-40f3-9c61-2bc332bcf012" />
+The top city is New York with £256K in sales, across all segments, while the top region is the Central region accounting for 22% of total sales- £11.0M
+
 
 
 
