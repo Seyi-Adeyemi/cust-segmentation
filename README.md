@@ -167,6 +167,18 @@ Future improvements to this project could include automating the data pipeline t
 Due to Power BI tenant restrictions, a public live link is not available.  
 The full interactive `.pbix` file and dataset are provided in this repository for download and exploration.
 
+## How to Use
+
+- Download the Global Data Analysis.pbix file from this repository.
+- Ensure Power BI Desktop is installed on your machine.
+- Open the .pbix file in Power BI Desktop.
+- If prompted:
+  - Click Refresh to load the data
+- Use:
+  - Filters
+  - Slicers
+  - Drill-through pages to interact with the dashboard and explore customer segments in detail.
+
 
 
 
