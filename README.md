@@ -70,7 +70,9 @@ Technology is the largest contributor to across all segments, and accounts for 3
 
 ![OrderPriority](assets/image/Screenshot 2025-12-03 114540.png)
 
-Delivery speed aligns strongly with order priority. Critical orders are fulfilled in under 2 days on average, while low-priority orders take over 6 days. Medium-priority orders generate most of the total profit, contributing more than all other priority levels combined. High-priority and Critical orders also contribute positively, while Low-priority orders generate minimal profit.
+Delivery speed aligns strongly with order priority. Critical orders are fulfilled in under 2 days on average, while low-priority orders take over 6 days.
+
+Medium-priority orders generate most of the total profit, contributing more than all other priority levels combined. High-priority and Critical orders also contribute positively, while Low-priority orders generate minimal profit.
 
 ### QUESTION 5: Which shipping modes (Same Day, First Class, Second Class, Standard Class) are most commonly used?
 
@@ -79,6 +81,39 @@ Delivery speed aligns strongly with order priority. Critical orders are fulfille
 Standard shipping accounts for 60% of all orders, making it the most widely used ship mode. Every Category relies heavily on standard shipping: Office Supplies, Technology, and Furniture all show their highest shipment volumes under Standard Class. 
 
 Gross profit is consistent across shipping methods, Standard 11.6%, Second 11.58%, First 11.4%, Same Day 11.2%, showing that faster shipping has minimal impact on profitability. Standard shipping not only leads in volume but also drives most of the net profit at £263K.
+
+### QUESTION 6: What are the most profitable customer segments, countries, and cities?
+
+![ProfitbySegment](assets/image/Screenshot 2025-12-03 212656.png)
+
+The most profitable segment is the Consumer segment contributing £750K to Total Profit. 
+
+Technology contributes the most to profit across all segments.
+
+### QUESTION 7: How do discounts offered impact overall sales and profitability?
+
+![DiscountsnProfitability](assets/image/Screenshot 2025-12-03 214344.png)
+
+For Category: Higher average discounts are linked with lower total profit. This is evident as Furniture has the highest discount (0.17) and the lowest profit (£0.28M), while Technology has the lowest discount (0.13) and the highest profit (£0.66M).
+
+For Segment: Higher average discounts correlate with higher profit. This is shown by Consumer Segment having the highest discount (0.142) and highest profit (£0.75M), while Home Office has the lowest profit (£0.28M) and lowest discount.
+
+### QUESTION 8: What are the monthly or quarterly sales trends over the years?
+
+![YearlySalesTrend](assets/image/Screenshot 2025-12-03 215424.png)
+
+Sales increased steadily from £2.3M in 2011 to £4.3M in 2014, showing a near-doubling of revenue within just four years.
+
+Across all four years, Q4 repeatedly delivers the highest sales, with values rising from £0.84M in 2011 to £1.54M in 2014.
+
+
+
+
+
+
+
+
+
 
 
 
