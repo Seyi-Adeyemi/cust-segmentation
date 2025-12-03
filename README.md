@@ -162,6 +162,11 @@ Based on insights derived from our analysis, the following are the recommendatio
 
 Future improvements to this project could include automating the data pipeline through direct database connections and scheduled refreshes in Power BI Service. Additional DAX measures can be developed to support advanced KPIs such as year-over-year growth and forecasting. The dashboard can also be enhanced with drill-through functionality, row-level security for role-based access, and mobile-optimized reporting. Finally, the solution could be deployed to Power BI Service for stakeholder sharing and real-time insights.
 
+## 📂 Power BI File Access
+
+Due to Power BI tenant restrictions, a public live link is not available.  
+The full interactive `.pbix` file and dataset are provided in this repository for download and exploration.
+
 
 
 
