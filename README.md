@@ -130,6 +130,29 @@ South and North Regions Are Strong Secondary Markets.
 
 ## Recommendations:
 
+Based on insights derived from our analysis, the following are the recommendations:
+
+- Strengthen Focus on High-Value Segments and Products: Consumer drives the highest sales at £6.5M and highest profit £0.75M. Expand targeted campaigns for Consumer buyers and develop loyalty programs that reward repeat technology purchases.
+- Increase Strategic Focus on Technology and phones: Technology is the largest revenue category £4.7M, and Phones are the top subcategory £1.71M. Increase product range, bundles, and cross-sell opportunities, and launch premium upsell programs (e.g., warranties, accessories).
+- Improve Profitability Through Smarter Discount & Priority Management: Reduce discounts in Low-Profit Categories such as Furniture. Optimize Order Priority Profit Structure by encouraging customers toward medium-priority orders through small incentives. Profitability can be maintained by reviewing costs associated with Critical/High priority orders.
+- Invest More in High-Performing Regions: Central with £2.82M sales (critical growth market), North Asia & Central Asia show industry-leading CLV >£1,100. Increase marketing spend and sales capacity here. For low performing regions (Caribbean, Canada, East, West), review fulfilment costs, competition levels, and pricing, and consider targeted micro-campaigns before committing large budgets.
+- Improve Shipping Profitability: Standard shipping represents 60% of all orders and delivers highest profit £263K. Encourage customers to choose Standard by highlighting savings and defaulting Standard as the pre-selected option in checkout.
+- Leverage Q4 as a Peak Sales Period: Q4 is consistently the highest performing season. Front-load Q4 with major campaigns to increase sales. Expand inventory before Q4 to avoid shortages Also use YoY growth trends for forecasting as sales nearly doubled from £2.3M (2011) to £4.3M (2014).
+- Adopt City-Level Strategy: New York leads all cities £256K, far above the rest. Focus sales efforts on top metropolitan areas. Build city-specific campaigns (local events, citywide promotions).
+
+## Next Steps/Further Action:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
